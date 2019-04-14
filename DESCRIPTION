@@ -1,0 +1,12 @@
+Package: foofactors
+Title: Changes something
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Michelle",
+           family = "Kosmicki",
+           role = c("aut", "cre"),
+           email = "mkosmicki@strategicamerica.com")
+Description: Still not sure but we're going with it.
+License: What license it uses
+Encoding: UTF-8
+LazyData: true
