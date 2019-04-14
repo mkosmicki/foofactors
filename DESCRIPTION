@@ -10,3 +10,5 @@ Description: Still not sure but we're going with it.
 License: What license it uses
 Encoding: UTF-8
 LazyData: true
+URL: https://github.com/mkosmicki/foofactors
+BugReports: https://github.com/mkosmicki/foofactors/issues
